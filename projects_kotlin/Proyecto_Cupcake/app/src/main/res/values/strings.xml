@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"> Cupcake\'s Sena Cba</string>
+    <string name="order_cupcakes">Pedido Cupcakes</string>
+    <string name="one_cupcake">Un cupcake</string>
+    <string name="six_cupcake">Seis cupcakes</string>
+    <string name="twelve_cupcake">Doce cupcakes</string>
+    <string name="choose_flavor">Seleccione Sabor</string>
+    <string name="vainilla">Vainilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="arequipe">Arequipe</string>
+    <string name="salted_caramel">Caramelo Salteado</string>
+    <string name="coffe">Cafe</string>
+    <string name="especial_flavor">Sabor especial</string>
+    <string name="cancel">Cancelar </string>
+    <string name="next">Siguiente </string>
+    <string name="choose_pickup_date">Elija fecha de Entrega </string>
+    <string name="order_sumary">Resumen Pedido</string>
+    <string name="send">Enviar pedido a la APP</string>
+    <string name="cuantity">Cantidad</string>
+    <string name="flavor">Cantidad</string>
+
+</resources>
